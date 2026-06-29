@@ -1,5 +1,5 @@
 # DAP
-Code of "DAP: Enhancing AI-generated Text Detection via Dynamic Adversarial Paraphrasing"
+Code of "Dynamic Adversarial Paraphrasing via Multi-Objective Fusion for Robust AI-Generated Text Detection"
 
 > **DAP** is a co‑evolving framework that alternately improves a *detector* and a *generator* so that the detector becomes robust against dynamically generated adversarial paraphrasings.
 
@@ -69,9 +69,9 @@ This project borrows or uses code from the following project, for which we are g
 
 ## 5  Citation
 ```bibtex
-  @article    {dap2025,
-  title     = {DAP: Enhancing AI-Generated Text Detection via Dynamic Adversarial Paraphrasing},
-  year      = {2025}
+  @article    {dap2026,
+  title     = {Dynamic Adversarial Paraphrasing via Multi-Objective Fusion for Robust AI-Generated Text Detection},
+  year      = {2026}
 }
 ```
 
